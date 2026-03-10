@@ -1,0 +1,3 @@
+1001|anas|anas@gmail|2345|1234|Student|5644.0|ACTIVE
+1002|Usman|usman@gmail.com|7777|5555|Premium|7.0000045E7|ACTIVE
+1005|Syed Fahad Ali|fahadalisyed543@gmail.com|0370|1234|Student|500.0|ACTIVE
